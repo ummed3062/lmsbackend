@@ -19,7 +19,7 @@ import com.bytexl.lmsbackend.service.UserService;
 
 @RestController
 @RequestMapping("/auth")
-@CrossOrigin("https://lms-bytexl-5tm9h5x6g-ummed-singhs-projects.vercel.app/")
+@CrossOrigin("https://lms-bytexl.vercel.app/")
 public class AuthController {
 
     @Autowired
